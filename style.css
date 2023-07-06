@@ -1,0 +1,28 @@
+*{
+    margin: 20px 20px 20px 20px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: gainsboro;
+
+    
+}
+button{
+    background-color: antiquewhite;
+    font-size: larger;
+    font-weight: 800;
+    border-radius: 20px;
+    
+}
+h2{
+    align-items: center;
+    position: flex;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 100px;
+    
+}
+#demo{
+    background-color: white;
+    font-size: 50px;
+    font-weight: 800;
+}
